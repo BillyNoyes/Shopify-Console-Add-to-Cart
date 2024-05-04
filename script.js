@@ -16,7 +16,6 @@ const addItemToCart = () => {
   .then(response => response.json())
   .then(data => {
     console.log('Item added to cart:', data);
-    // You can redirect to the cart or update the UI as needed
   })
   .catch(error => {
     console.error('Error adding item to cart:', error);
