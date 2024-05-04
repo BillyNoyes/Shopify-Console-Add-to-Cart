@@ -11,8 +11,7 @@ To use this tool, follow these steps:
 1. Open your browser's console (usually by pressing `F12` or `Ctrl+Shift+I`).
 2. Copy the code from the `script.js` file in this repository.
 3. Paste the code into the console.
-
-4. Replace `'your-variant-id'` in the code with the actual variant ID you want to add to the cart.
+4. Replace the values of the `shopName` and `variantId` variables in the code.
 5. Execute the script by pressing `Enter`.
 
 Happy shopping! 🛒🚀
