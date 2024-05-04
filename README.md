@@ -2,7 +2,7 @@
 
 ## Description
 
-The Shopify Cart Modifier is a simple tool that allows you to add a specific variant ID to any Shopify store's cart through your browser's console. This can be useful for testing or debugging purposes.
+The Shopify Cart Modifier is a simple script that allows you to add a specific variant ID to any Shopify store's cart through your browser's console. This can be useful for testing or debugging purposes.
 
 ## Usage
 
