@@ -1,3 +1,4 @@
+const shopName = 'your-shop-name';
 const variantId = 'your-variant-id';
 
 // Function to add item to cart
